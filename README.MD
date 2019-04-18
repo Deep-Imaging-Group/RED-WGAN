@@ -5,11 +5,11 @@ This is the source code of this paper. In this paper, we propose a novel method 
 ## 1. The description of contents of this reoisutiry:
 
 The contents of this repository are  as follows:
-1. data: A folder which holds the dataset.
-2. image: A foleder which holds the images for this repository.
-3. loss: A folder which holds the training loss.
-4. model: A folder which holds the parameters of the neural network model.
-5. result: A folder which holds some the result of test.
+1. `data`: A folder which holds the dataset.
+2. `image`: A foleder which holds the images for this repository.
+3. `loss`: A folder which holds the training loss.
+4. `model`: A folder which holds the parameters of the neural network model.
+5. `result`: A folder which holds some the result of test.
 6. `data.py`: A Python file which implete the class Dataset of Pytorch, which serves the `model2.py` and `model5.py`.
 7. `mixdata.py`: A Python file which implete the class Dataset of Pytorch, which serves the `model7.py`.
 8. `model2.py`: A Python file which is the model 'CNN3D'.
@@ -27,5 +27,5 @@ The contents of this repository are  as follows:
 ![Figure5](images/figure5.png)
 ![Figure6](images/figure6.png)
 
-## 4. Thedenoising result on real data.
+## 4. The denoising result on real data.
 ![Figure7](images/figure7.png)
