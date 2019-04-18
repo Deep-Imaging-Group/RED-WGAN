@@ -19,8 +19,8 @@ The contents of this repository are  as follows:
 
 # 2. The structure of the model in this paper.
 ![Figure1](images/figure1.png)
-![Figure2](images/figure2.png)
-![Figure3](images/figure3.png)
+![Figure2](images/Figure2.png)
+![Figure3](images/Figure3.png)
 
 ## 3. The denoising result on testing dataset.
 ![Figure4](images/figure4.png)
