@@ -2,6 +2,10 @@
 
 This is the source code of this paper. In this paper, we propose a novel method based on the Wasserstein generative adversarial network to remove the Rician noise in MR images while effectively preserving the structural details. This network aims to process 3D volume data using a 3D convolutional neural network. In addition to the introduction of the WGAN framework, there are two more advantages to our method: the innovative generator structure and mixed weighted loss function. The generator is con-structed with an autoencoder structure, which symmetrically contains convolutional and deconvolutional layers, aided by a residual structure. Another improvement of our method is the adaptation of the mixed loss function, which combines the MSE and perceptual losses with a weighted form.
 
+
+
+If you use this code, please cite our work: Ran, Maosong, et al. "Denoising of 3-D Magnetic Resonance Images Using a Residual Encoder-Decoder Wasserstein Generative Adversarial Network." *arXiv preprint arXiv:1808.03941* (2018).
+
 ## 1. The description of contents of this reoisutiry:
 
 The contents of this repository are  as follows:
